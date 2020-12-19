@@ -1,4 +1,4 @@
-# comp789
+# comp7890
 here is Deep learning model for the BERT 
 Firstly  you need run data_prepare,
 
